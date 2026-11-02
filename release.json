@@ -1,0 +1,13 @@
+{
+  "name": "Localized Plates",
+  "version": "1.0.2",
+  "game_version": "1.6.1",
+  "nexus": {
+    "display_name": "Localized Plates",
+    "description": "Close Tokyo Xtreme Racer, choose a version, then copy its .pak, .ucas, and .utoc files into <GAME_LOCATION>/TokyoXtremeRacer/Content/Paks/~mods. Create the ~mods folder if it doesn't exist.",
+    "category": "main",
+    "short_unique_file_id": "qaXRiN64T",
+    "file_id": "7981266",
+    "mod_id": "31159987732672"
+  }
+}

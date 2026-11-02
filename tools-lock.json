@@ -1,0 +1,20 @@
+{
+  "retoc": {
+    "url": "https://github.com/trumank/retoc/releases/download/v0.1.5/retoc_cli-x86_64-pc-windows-msvc.zip",
+    "sha256": "cc036b06ad3bdcf7003690b00d82719980c374e48a95bf0654f9959148d263aa",
+    "member": "retoc.exe",
+    "destination": "retoc/retoc.exe"
+  },
+  "repak": {
+    "url": "https://github.com/trumank/repak/releases/download/v0.2.3/repak_cli-x86_64-pc-windows-msvc.zip",
+    "sha256": "6720d602144d75df477a99d5bedb6ea780997546afc335901d4937cafeaa73fa",
+    "member": "repak.exe",
+    "destination": "repak/repak.exe"
+  },
+  "UnrealLocres": {
+    "url": "https://github.com/akintos/UnrealLocres/releases/download/1.1.1/UnrealLocres.exe",
+    "sha256": "b961927f92a8bca928d378a8430e5ea36fed300500b228b184b8d6b61ebb22a1",
+    "member": null,
+    "destination": "UnrealLocres.exe"
+  }
+}

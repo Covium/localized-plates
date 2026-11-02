@@ -1,0 +1,3338 @@
+[
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BFC090484E337B54E3152192DD157E13",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9DD2DC5E46175897D43CEDA613384BE6",
+    "source": "札幌",
+    "translations": {
+      "en": "Sapporo",
+      "fr": "Sapporo",
+      "es": "Sapporo",
+      "zh-CN": "札幌",
+      "zh-TW": "札幌"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "024F61C7452B08E10E5D058F0E16E303",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4214CED34720403EE582B3B5FBB7B2F1",
+    "source": "函館",
+    "translations": {
+      "en": "Hakodate",
+      "fr": "Hakodate",
+      "es": "Hakodate",
+      "zh-CN": "函馆",
+      "zh-TW": "函館"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "12ECA9FD4A549247CF26E589F35DCFE0",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8968547B4895887DD2006380AD5A2C0A",
+    "source": "旭川",
+    "translations": {
+      "en": "Asahikawa",
+      "fr": "Asahikawa",
+      "es": "Asahikawa",
+      "zh-CN": "旭川",
+      "zh-TW": "旭川"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "92FD53D64773258F345DB6856E4B163F",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E62A7A794BFAC7B606679BB5DF4A747D",
+    "source": "室蘭",
+    "translations": {
+      "en": "Muroran",
+      "fr": "Muroran",
+      "es": "Muroran",
+      "zh-CN": "室兰",
+      "zh-TW": "室蘭"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A3168EED4838A20942C631BD359F50D5",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B2CDA5B3437A336C65046CAFEA5D6BE6",
+    "source": "苫小牧",
+    "translations": {
+      "en": "Tomakomai",
+      "fr": "Tomakomai",
+      "es": "Tomakomai",
+      "zh-CN": "苫小牧",
+      "zh-TW": "苫小牧"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3DD2991942771D251FFE7AA7F26AB260",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4FB48E55411C5CCB95EE3790A85A8905",
+    "source": "釧路",
+    "translations": {
+      "en": "Kushiro",
+      "fr": "Kushiro",
+      "es": "Kushiro",
+      "zh-CN": "钏路",
+      "zh-TW": "釧路"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "162B8CD04F89C8811489928DC97E1295",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8C3EAB494804E18FA0FACAB7EFAF8A3C",
+    "source": "帯広",
+    "translations": {
+      "en": "Obihiro",
+      "fr": "Obihiro",
+      "es": "Obihiro",
+      "zh-CN": "带广",
+      "zh-TW": "帶廣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "37451FED46295081B72048993A41821E",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D1498C6B46E390AC94C353B447831940",
+    "source": "北見",
+    "translations": {
+      "en": "Kitami",
+      "fr": "Kitami",
+      "es": "Kitami",
+      "zh-CN": "北见",
+      "zh-TW": "北見"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4F1A193E49D95959F826518B50D0A6BE",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "EDE148314DC97E0D0CB129938916ACAB",
+    "source": "知床",
+    "translations": {
+      "en": "Shiretoko",
+      "fr": "Shiretoko",
+      "es": "Shiretoko",
+      "zh-CN": "知床",
+      "zh-TW": "知床"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2D1BDAE643490CE6944319A266B550B8",
+    "source": "青森県",
+    "translations": {
+      "en": "Aomori",
+      "fr": "Aomori",
+      "es": "Aomori",
+      "zh-CN": "青森县",
+      "zh-TW": "青森縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7D80F4B84023CBF824FBF8854B43520F",
+    "source": "青森",
+    "translations": {
+      "en": "Aomori",
+      "fr": "Aomori",
+      "es": "Aomori",
+      "zh-CN": "青森",
+      "zh-TW": "青森"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0E4F4740483186915C5BB795AD06420D",
+    "source": "青森県",
+    "translations": {
+      "en": "Aomori",
+      "fr": "Aomori",
+      "es": "Aomori",
+      "zh-CN": "青森县",
+      "zh-TW": "青森縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FC77DD074CEFAA28648CF2B19F6A1152",
+    "source": "弘前",
+    "translations": {
+      "en": "Hirosaki",
+      "fr": "Hirosaki",
+      "es": "Hirosaki",
+      "zh-CN": "弘前",
+      "zh-TW": "弘前"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8A505D32432D3E1CAA15A1A52209C337",
+    "source": "青森県",
+    "translations": {
+      "en": "Aomori",
+      "fr": "Aomori",
+      "es": "Aomori",
+      "zh-CN": "青森县",
+      "zh-TW": "青森縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "AE3B9C4B4A5A7DC67F776BBFB1852F10",
+    "source": "八戸",
+    "translations": {
+      "en": "Hachinohe",
+      "fr": "Hachinohe",
+      "es": "Hachinohe",
+      "zh-CN": "八户",
+      "zh-TW": "八戶"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7237F82746A79EC4BDBDEE91ECB4E824",
+    "source": "岩手県",
+    "translations": {
+      "en": "Iwate",
+      "fr": "Iwate",
+      "es": "Iwate",
+      "zh-CN": "岩手县",
+      "zh-TW": "岩手縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "EC2B152F44EC677282EF7E9ECF1436BB",
+    "source": "岩手",
+    "translations": {
+      "en": "Iwate",
+      "fr": "Iwate",
+      "es": "Iwate",
+      "zh-CN": "岩手",
+      "zh-TW": "岩手"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6A0B406340B2E672DC9679828B6ADEC2",
+    "source": "岩手県",
+    "translations": {
+      "en": "Iwate",
+      "fr": "Iwate",
+      "es": "Iwate",
+      "zh-CN": "岩手县",
+      "zh-TW": "岩手縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "95F21A8E4442033010EAE9BE5318357E",
+    "source": "盛岡",
+    "translations": {
+      "en": "Morioka",
+      "fr": "Morioka",
+      "es": "Morioka",
+      "zh-CN": "盛冈",
+      "zh-TW": "盛岡"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6AB27B5744F0BF3CD58787BC873DC226",
+    "source": "岩手県",
+    "translations": {
+      "en": "Iwate",
+      "fr": "Iwate",
+      "es": "Iwate",
+      "zh-CN": "岩手县",
+      "zh-TW": "岩手縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9750D31842AE1FDCF1629990B7A4D617",
+    "source": "平泉",
+    "translations": {
+      "en": "Hiraizumi",
+      "fr": "Hiraizumi",
+      "es": "Hiraizumi",
+      "zh-CN": "平泉",
+      "zh-TW": "平泉"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "761CB99A46C0F1086EC8E99F130BB21C",
+    "source": "宮城県",
+    "translations": {
+      "en": "Miyagi",
+      "fr": "Miyagi",
+      "es": "Miyagi",
+      "zh-CN": "宫城县",
+      "zh-TW": "宮城縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4D3EC6494E2E2EC79578439EE77F2E60",
+    "source": "宮城",
+    "translations": {
+      "en": "Miyagi",
+      "fr": "Miyagi",
+      "es": "Miyagi",
+      "zh-CN": "宫城",
+      "zh-TW": "宮城"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "59EEBA594DADBFFB5C7EC38AF2F7EAB8",
+    "source": "宮城県",
+    "translations": {
+      "en": "Miyagi",
+      "fr": "Miyagi",
+      "es": "Miyagi",
+      "zh-CN": "宫城县",
+      "zh-TW": "宮城縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7B86EF774B89436B0B05A3B3B6B49018",
+    "source": "仙台",
+    "translations": {
+      "en": "Sendai",
+      "fr": "Sendai",
+      "es": "Sendai",
+      "zh-CN": "仙台",
+      "zh-TW": "仙台"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "839C071D4107DF23F0D8EDA04D4C903F",
+    "source": "秋田県",
+    "translations": {
+      "en": "Akita",
+      "fr": "Akita",
+      "es": "Akita",
+      "zh-CN": "秋田县",
+      "zh-TW": "秋田縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9BFAF39748B6D8D642AB97913B76A4F7",
+    "source": "秋田",
+    "translations": {
+      "en": "Akita",
+      "fr": "Akita",
+      "es": "Akita",
+      "zh-CN": "秋田",
+      "zh-TW": "秋田"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "CEA0A5704E6C4D641C45EF88EF275C08",
+    "source": "山形県",
+    "translations": {
+      "en": "Yamagata",
+      "fr": "Yamagata",
+      "es": "Yamagata",
+      "zh-CN": "山形县",
+      "zh-TW": "山形縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5BFD428D4AC0347DBD607EB5AE849745",
+    "source": "山形",
+    "translations": {
+      "en": "Yamagata",
+      "fr": "Yamagata",
+      "es": "Yamagata",
+      "zh-CN": "山形",
+      "zh-TW": "山形"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "16258F2D4C4316B0107145BB304EF32B",
+    "source": "山形県",
+    "translations": {
+      "en": "Yamagata",
+      "fr": "Yamagata",
+      "es": "Yamagata",
+      "zh-CN": "山形县",
+      "zh-TW": "山形縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C450BEA441EBDFCE5A0B23B46F18C3E9",
+    "source": "庄内",
+    "translations": {
+      "en": "Shonai",
+      "fr": "Shonai",
+      "es": "Shonai",
+      "zh-CN": "庄内",
+      "zh-TW": "庄內"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "79F403FB4A8F61A53B13E4B9ABA694CA",
+    "source": "福島県",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛县",
+      "zh-TW": "福島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0EE8D0CF4B5C8453CF104DBBBA90FC22",
+    "source": "福島",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛",
+      "zh-TW": "福島"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "CA69CF92459A7FE8A49B2A9A979E33E7",
+    "source": "福島県",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛县",
+      "zh-TW": "福島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7D214C444F6C752441D9B3B3C4956AE5",
+    "source": "会津",
+    "translations": {
+      "en": "Aizu",
+      "fr": "Aizu",
+      "es": "Aizu",
+      "zh-CN": "会津",
+      "zh-TW": "會津"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "564D7889428A1AB5D42025BC3230E1D3",
+    "source": "福島県",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛县",
+      "zh-TW": "福島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6A23E30E44188AFDB1813CBF8289CD4F",
+    "source": "郡山",
+    "translations": {
+      "en": "Koriyama",
+      "fr": "Koriyama",
+      "es": "Koriyama",
+      "zh-CN": "郡山",
+      "zh-TW": "郡山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "88C4D01F4BAC0857ADA750B59D841ABC",
+    "source": "福島県",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛县",
+      "zh-TW": "福島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "624510E6443D496BB9981386DA68E01F",
+    "source": "白河",
+    "translations": {
+      "en": "Shirakawa",
+      "fr": "Shirakawa",
+      "es": "Shirakawa",
+      "zh-CN": "白河",
+      "zh-TW": "白河"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2F5F6FF84F2527826721DFAC1EF2B9B4",
+    "source": "福島県",
+    "translations": {
+      "en": "Fukushima",
+      "fr": "Fukushima",
+      "es": "Fukushima",
+      "zh-CN": "福岛县",
+      "zh-TW": "福島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E5F937FA404FF6A04C6F3FA85F9565F0",
+    "source": "いわき",
+    "translations": {
+      "en": "Iwaki",
+      "fr": "Iwaki",
+      "es": "Iwaki",
+      "zh-CN": "磐城",
+      "zh-TW": "磐城"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E23419F14A983291D466CF919E892FB4",
+    "source": "茨城県",
+    "translations": {
+      "en": "Ibaraki",
+      "fr": "Ibaraki",
+      "es": "Ibaraki",
+      "zh-CN": "茨城县",
+      "zh-TW": "茨城縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8B439F6A49E88C399E6F8388CF144BD6",
+    "source": "水戸",
+    "translations": {
+      "en": "Mito",
+      "fr": "Mito",
+      "es": "Mito",
+      "zh-CN": "水户",
+      "zh-TW": "水戶"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A9B387D54C15B3EE9703C7BB31908AAD",
+    "source": "茨城県",
+    "translations": {
+      "en": "Ibaraki",
+      "fr": "Ibaraki",
+      "es": "Ibaraki",
+      "zh-CN": "茨城县",
+      "zh-TW": "茨城縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "46903FFD480BC1782D0D17A7992F8C33",
+    "source": "土浦",
+    "translations": {
+      "en": "Tsuchiura",
+      "fr": "Tsuchiura",
+      "es": "Tsuchiura",
+      "zh-CN": "土浦",
+      "zh-TW": "土浦"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "89EDC88641EE5A630B4C34A783973BFC",
+    "source": "茨城県",
+    "translations": {
+      "en": "Ibaraki",
+      "fr": "Ibaraki",
+      "es": "Ibaraki",
+      "zh-CN": "茨城县",
+      "zh-TW": "茨城縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8BF8F9A341E530030F0193B92E40C686",
+    "source": "つくば",
+    "translations": {
+      "en": "Tsukuba",
+      "fr": "Tsukuba",
+      "es": "Tsukuba",
+      "zh-CN": "筑波",
+      "zh-TW": "筑波"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FB235730420FEA7EA76FC8BA96098253",
+    "source": "栃木県",
+    "translations": {
+      "en": "Tochigi",
+      "fr": "Tochigi",
+      "es": "Tochigi",
+      "zh-CN": "栃木县",
+      "zh-TW": "栃木縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "56BDF1534B343BD17C5D99A3E9F8F667",
+    "source": "宇都宮",
+    "translations": {
+      "en": "Utsunomiya",
+      "fr": "Utsunomiya",
+      "es": "Utsunomiya",
+      "zh-CN": "宇都宫",
+      "zh-TW": "宇都宮"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C5AD29554A5CE4A35539B9A30AE8724B",
+    "source": "栃木県",
+    "translations": {
+      "en": "Tochigi",
+      "fr": "Tochigi",
+      "es": "Tochigi",
+      "zh-CN": "栃木县",
+      "zh-TW": "栃木縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "24A675F64D76FE4DABA702A8E8703EF2",
+    "source": "那須",
+    "translations": {
+      "en": "Nasu",
+      "fr": "Nasu",
+      "es": "Nasu",
+      "zh-CN": "那须",
+      "zh-TW": "那須"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F4FC374440617479B78227BB98C34955",
+    "source": "栃木県",
+    "translations": {
+      "en": "Tochigi",
+      "fr": "Tochigi",
+      "es": "Tochigi",
+      "zh-CN": "栃木县",
+      "zh-TW": "栃木縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "755CC82646EB50041129FB94A935EC82",
+    "source": "とちぎ",
+    "translations": {
+      "en": "Tochigi",
+      "fr": "Tochigi",
+      "es": "Tochigi",
+      "zh-CN": "栃木",
+      "zh-TW": "栃木"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D6FC314A48E14A91CD3FE8A29A25B061",
+    "source": "群馬県",
+    "translations": {
+      "en": "Gunma",
+      "fr": "Gunma",
+      "es": "Gunma",
+      "zh-CN": "群马县",
+      "zh-TW": "群馬縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C37FA7324394675FD2F30F85EC0208F5",
+    "source": "群馬",
+    "translations": {
+      "en": "Gunma",
+      "fr": "Gunma",
+      "es": "Gunma",
+      "zh-CN": "群马",
+      "zh-TW": "群馬"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6F215EF6459FA2C9162CABBC18AA59F4",
+    "source": "群馬県",
+    "translations": {
+      "en": "Gunma",
+      "fr": "Gunma",
+      "es": "Gunma",
+      "zh-CN": "群马县",
+      "zh-TW": "群馬縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "CBF18BA74C7959048CECFA9AD2742DFE",
+    "source": "前橋",
+    "translations": {
+      "en": "Maebashi",
+      "fr": "Maebashi",
+      "es": "Maebashi",
+      "zh-CN": "前桥",
+      "zh-TW": "前橋"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D0497D2245CD37ED516F2B9B405F9B65",
+    "source": "群馬県",
+    "translations": {
+      "en": "Gunma",
+      "fr": "Gunma",
+      "es": "Gunma",
+      "zh-CN": "群马县",
+      "zh-TW": "群馬縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6DDBD66C4CC3749ADA28C0A3DCC99FCD",
+    "source": "高崎",
+    "translations": {
+      "en": "Takasaki",
+      "fr": "Takasaki",
+      "es": "Takasaki",
+      "zh-CN": "高崎",
+      "zh-TW": "高崎"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2CF1A4D747EFE103DF7B019A9671B6FE",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D4AEF7494EF22C1A6EC7028DC5945B6B",
+    "source": "大宮",
+    "translations": {
+      "en": "Omiya",
+      "fr": "Omiya",
+      "es": "Omiya",
+      "zh-CN": "大宫",
+      "zh-TW": "大宮"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "877AA6D34E52C33A8413AE9A9D025EC1",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8316132B4B92EE2804EF6CA13D05CD54",
+    "source": "川口",
+    "translations": {
+      "en": "Kawaguchi",
+      "fr": "Kawaguchi",
+      "es": "Kawaguchi",
+      "zh-CN": "川口",
+      "zh-TW": "川口"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "157715194AF21A336A64758A210DA6A6",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "746CD39741212EF87A134DB18BB69DB3",
+    "source": "所沢",
+    "translations": {
+      "en": "Tokorozawa",
+      "fr": "Tokorozawa",
+      "es": "Tokorozawa",
+      "zh-CN": "所泽",
+      "zh-TW": "所澤"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4CDC2B7F41CF075EFCB74D952DC7DFB7",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "CC15981448CD798DEE0A67B5C34363E0",
+    "source": "川越",
+    "translations": {
+      "en": "Kawagoe",
+      "fr": "Kawagoe",
+      "es": "Kawagoe",
+      "zh-CN": "川越",
+      "zh-TW": "川越"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C6B771434084BF314655D5AF0CB94E98",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4BC870CF4877B2F74E0C3D973939DF64",
+    "source": "熊谷",
+    "translations": {
+      "en": "Kumagaya",
+      "fr": "Kumagaya",
+      "es": "Kumagaya",
+      "zh-CN": "熊谷",
+      "zh-TW": "熊谷"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8B368D544A60952B7BBD45B50B2B2A5A",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8ACB5C204E052584571C778E3D72DBEA",
+    "source": "春日部",
+    "translations": {
+      "en": "Kasukabe",
+      "fr": "Kasukabe",
+      "es": "Kasukabe",
+      "zh-CN": "春日部",
+      "zh-TW": "春日部"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "949E2C6F4D2C8A92757BBA906FBFF872",
+    "source": "埼玉県",
+    "translations": {
+      "en": "Saitama",
+      "fr": "Saitama",
+      "es": "Saitama",
+      "zh-CN": "埼玉县",
+      "zh-TW": "埼玉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D57563AE4CE63F1E089C2C9D19639292",
+    "source": "越谷",
+    "translations": {
+      "en": "Koshigaya",
+      "fr": "Koshigaya",
+      "es": "Koshigaya",
+      "zh-CN": "越谷",
+      "zh-TW": "越谷"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "ADF3A7A04EBAE95164610189557686C5",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "389AC5E4413B0655C2E7F4A946629F10",
+    "source": "千葉",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶",
+      "zh-TW": "千葉"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5B337931474CEFA34B9DD38CC57E0A99",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "09A40622417E67F7C7ACFF9B3318E9D1",
+    "source": "成田",
+    "translations": {
+      "en": "Narita",
+      "fr": "Narita",
+      "es": "Narita",
+      "zh-CN": "成田",
+      "zh-TW": "成田"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1EB99E584308C7EADB8FBB9F7826410F",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9D7D8FF74B667C09BA6EB3953F4BD7DD",
+    "source": "習志野",
+    "translations": {
+      "en": "Narashino",
+      "fr": "Narashino",
+      "es": "Narashino",
+      "zh-CN": "习志野",
+      "zh-TW": "習志野"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "85D9E4AE4993200BE226C1947B5DB668",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5EB6E6B44BC2FE294F12D0A030B05A57",
+    "source": "市川",
+    "translations": {
+      "en": "Ichikawa",
+      "fr": "Ichikawa",
+      "es": "Ichikawa",
+      "zh-CN": "市川",
+      "zh-TW": "市川"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A19CC0C443C4C94FCD18EE88C5BCE62C",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2D625EBA485FFB9875C01FBA0F6A5BE4",
+    "source": "船橋",
+    "translations": {
+      "en": "Funabashi",
+      "fr": "Funabashi",
+      "es": "Funabashi",
+      "zh-CN": "船桥",
+      "zh-TW": "船橋"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E5E421244AFAC434C2C42DB8B4FEE0EF",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C7B6A1D545C1DD7326CBC29B3CE95B15",
+    "source": "袖ヶ浦",
+    "translations": {
+      "en": "Sodegaura",
+      "fr": "Sodegaura",
+      "es": "Sodegaura",
+      "zh-CN": "袖浦",
+      "zh-TW": "袖浦"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "ACDEF6004F6CCC66B30134B45799826E",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4EA5646B4DF15E3607BE13A9C6608F8C",
+    "source": "市原",
+    "translations": {
+      "en": "Ichihara",
+      "fr": "Ichihara",
+      "es": "Ichihara",
+      "zh-CN": "市原",
+      "zh-TW": "市原"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1E0008104365013A233A3795BC992623",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "84D0E89E49C82BB8E46E2FA7C798D4D2",
+    "source": "野田",
+    "translations": {
+      "en": "Noda",
+      "fr": "Noda",
+      "es": "Noda",
+      "zh-CN": "野田",
+      "zh-TW": "野田"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F4770ABD4708083D51A779B80690639B",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8C7215394B914ECD17B409823235DE8E",
+    "source": "柏",
+    "translations": {
+      "en": "Kashiwa",
+      "fr": "Kashiwa",
+      "es": "Kashiwa",
+      "zh-CN": "柏",
+      "zh-TW": "柏"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "131117ED41B88DF60C813C8789CB797A",
+    "source": "千葉県",
+    "translations": {
+      "en": "Chiba",
+      "fr": "Chiba",
+      "es": "Chiba",
+      "zh-CN": "千叶县",
+      "zh-TW": "千葉縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "46EC349C4665AE8AD0407CB9BFE8A596",
+    "source": "松戸",
+    "translations": {
+      "en": "Matsudo",
+      "fr": "Matsudo",
+      "es": "Matsudo",
+      "zh-CN": "松户",
+      "zh-TW": "松戶"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "03A684EA40ADFE4C5451789D101EB50B",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C3EEE14D41837001CD8682B40EAE6F5E",
+    "source": "品川",
+    "translations": {
+      "en": "Shinagawa",
+      "fr": "Shinagawa",
+      "es": "Shinagawa",
+      "zh-CN": "品川",
+      "zh-TW": "品川"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1EC738384499EEF966A7348D8E214EBF",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C705BCE049A9190A9266B7A00150A953",
+    "source": "世田谷",
+    "translations": {
+      "en": "Setagaya",
+      "fr": "Setagaya",
+      "es": "Setagaya",
+      "zh-CN": "世田谷",
+      "zh-TW": "世田谷"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3CA9C931479648DC52B5F8BC4B9FE065",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4F17A404435C90E88BF945AC71B74349",
+    "source": "練馬",
+    "translations": {
+      "en": "Nerima",
+      "fr": "Nerima",
+      "es": "Nerima",
+      "zh-CN": "练马",
+      "zh-TW": "練馬"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0FF01EBF4FC44BAA939C0697E84F694A",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "728F140744AB33B3CAB7AEAF29F93391",
+    "source": "杉並",
+    "translations": {
+      "en": "Suginami",
+      "fr": "Suginami",
+      "es": "Suginami",
+      "zh-CN": "杉并",
+      "zh-TW": "杉並"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A16598534C1133E231C6A6A5FC2A5F3E",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B3C59F0C4FC523D57A0DA5B522DF8DD7",
+    "source": "板橋",
+    "translations": {
+      "en": "Itabashi",
+      "fr": "Itabashi",
+      "es": "Itabashi",
+      "zh-CN": "板桥",
+      "zh-TW": "板橋"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "68ED9DED424782254AE30CB229BBC87C",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9F0BE8A0483497D4B2A61D85F7365661",
+    "source": "足立",
+    "translations": {
+      "en": "Adachi",
+      "fr": "Adachi",
+      "es": "Adachi",
+      "zh-CN": "足立",
+      "zh-TW": "足立"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9D76D7934DF5C0CACB95D99170658706",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "03C191B84DB6C95B6BA92DA5D940B774",
+    "source": "江東",
+    "translations": {
+      "en": "Koto",
+      "fr": "Koto",
+      "es": "Koto",
+      "zh-CN": "江东",
+      "zh-TW": "江東"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A9B40B57474DB635EAC07E92FCEC87BC",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3773928A44A3FD1C34FE56AB89762BD1",
+    "source": "葛飾",
+    "translations": {
+      "en": "Katsushika",
+      "fr": "Katsushika",
+      "es": "Katsushika",
+      "zh-CN": "葛饰",
+      "zh-TW": "葛飾"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E31807CE45B420A0772AD382A0CE544D",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D9F577EB471499DCA28CFC994C1802C3",
+    "source": "八王子",
+    "translations": {
+      "en": "Hachioji",
+      "fr": "Hachioji",
+      "es": "Hachioji",
+      "zh-CN": "八王子",
+      "zh-TW": "八王子"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "06AC04FB43871F557AE3FA8F108A204A",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "EE164D8F49FD2D77C2EDC29F20834C8B",
+    "source": "多摩",
+    "translations": {
+      "en": "Tama",
+      "fr": "Tama",
+      "es": "Tama",
+      "zh-CN": "多摩",
+      "zh-TW": "多摩"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "235DC97A4DFBC2BF7754678E606DD390",
+    "source": "神奈川県",
+    "translations": {
+      "en": "Kanagawa",
+      "fr": "Kanagawa",
+      "es": "Kanagawa",
+      "zh-CN": "神奈川县",
+      "zh-TW": "神奈川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C473C58F4A832FF3B1D48993D6BA6BB3",
+    "source": "横浜",
+    "translations": {
+      "en": "Yokohama",
+      "fr": "Yokohama",
+      "es": "Yokohama",
+      "zh-CN": "横滨",
+      "zh-TW": "橫濱"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "104CD0104AF4D319CD519A941A5BE133",
+    "source": "神奈川県",
+    "translations": {
+      "en": "Kanagawa",
+      "fr": "Kanagawa",
+      "es": "Kanagawa",
+      "zh-CN": "神奈川县",
+      "zh-TW": "神奈川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5CBEF3D24E6B06A6B61AB2A0CA0F62F0",
+    "source": "川崎",
+    "translations": {
+      "en": "Kawasaki",
+      "fr": "Kawasaki",
+      "es": "Kawasaki",
+      "zh-CN": "川崎",
+      "zh-TW": "川崎"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2E502EB94154B1394535ADA9C515F271",
+    "source": "神奈川県",
+    "translations": {
+      "en": "Kanagawa",
+      "fr": "Kanagawa",
+      "es": "Kanagawa",
+      "zh-CN": "神奈川县",
+      "zh-TW": "神奈川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1E17E3D7473965240481978B07A8F42B",
+    "source": "湘南",
+    "translations": {
+      "en": "Shonan",
+      "fr": "Shonan",
+      "es": "Shonan",
+      "zh-CN": "湘南",
+      "zh-TW": "湘南"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2ADA4799417B392A3196EE95171F2C95",
+    "source": "神奈川県",
+    "translations": {
+      "en": "Kanagawa",
+      "fr": "Kanagawa",
+      "es": "Kanagawa",
+      "zh-CN": "神奈川县",
+      "zh-TW": "神奈川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2D741C5A47526CFDBD368EA109923E9A",
+    "source": "相模",
+    "translations": {
+      "en": "Sagami",
+      "fr": "Sagami",
+      "es": "Sagami",
+      "zh-CN": "相模",
+      "zh-TW": "相模"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E90A32A1448EE4EB7DEDCC8836E3F604",
+    "source": "山梨県",
+    "translations": {
+      "en": "Yamanashi",
+      "fr": "Yamanashi",
+      "es": "Yamanashi",
+      "zh-CN": "山梨县",
+      "zh-TW": "山梨縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6CE29DA94DA4ABE4A20C08ABA15007AC",
+    "source": "山梨",
+    "translations": {
+      "en": "Yamanashi",
+      "fr": "Yamanashi",
+      "es": "Yamanashi",
+      "zh-CN": "山梨",
+      "zh-TW": "山梨"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "94FB9252469747C505DA82A3E43F6C9A",
+    "source": "山梨県",
+    "translations": {
+      "en": "Yamanashi",
+      "fr": "Yamanashi",
+      "es": "Yamanashi",
+      "zh-CN": "山梨县",
+      "zh-TW": "山梨縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E1B7A68B41AB0C59CD20948656B9287D",
+    "source": "富士山",
+    "translations": {
+      "en": "Fujisan",
+      "fr": "Mont Fuji",
+      "es": "Monte Fuji",
+      "zh-CN": "富士山",
+      "zh-TW": "富士山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "98B256BA4657426959C5C0ADF69CE735",
+    "source": "新潟県",
+    "translations": {
+      "en": "Niigata",
+      "fr": "Niigata",
+      "es": "Niigata",
+      "zh-CN": "新潟县",
+      "zh-TW": "新潟縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BF881C2047635C573C3C1983DEC265B2",
+    "source": "新潟",
+    "translations": {
+      "en": "Niigata",
+      "fr": "Niigata",
+      "es": "Niigata",
+      "zh-CN": "新潟",
+      "zh-TW": "新潟"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "AF9953234BF808722DF7258D4F9FBED1",
+    "source": "新潟県",
+    "translations": {
+      "en": "Niigata",
+      "fr": "Niigata",
+      "es": "Niigata",
+      "zh-CN": "新潟县",
+      "zh-TW": "新潟縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FFB8195B4B421BC9B6EF35906E9BDD25",
+    "source": "長岡",
+    "translations": {
+      "en": "Nagaoka",
+      "fr": "Nagaoka",
+      "es": "Nagaoka",
+      "zh-CN": "长冈",
+      "zh-TW": "長岡"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F2C24B8347ABEC6011F0D88AFE70E338",
+    "source": "新潟県",
+    "translations": {
+      "en": "Niigata",
+      "fr": "Niigata",
+      "es": "Niigata",
+      "zh-CN": "新潟县",
+      "zh-TW": "新潟縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BFC6509148B64902A6C98E82F4DE8818",
+    "source": "上越",
+    "translations": {
+      "en": "Joetsu",
+      "fr": "Joetsu",
+      "es": "Joetsu",
+      "zh-CN": "上越",
+      "zh-TW": "上越"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9E3817724520ED6A23BA8791D5849672",
+    "source": "長野県",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野县",
+      "zh-TW": "長野縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "63E5ECAF4DC2DE8CAC8FDEBF57CDB76E",
+    "source": "長野",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野",
+      "zh-TW": "長野"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3073142A4A79F6CC580E79AF1533B488",
+    "source": "長野県",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野县",
+      "zh-TW": "長野縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2A1BF8234E6D6DAEB19D2BAB7B643323",
+    "source": "松本",
+    "translations": {
+      "en": "Matsumoto",
+      "fr": "Matsumoto",
+      "es": "Matsumoto",
+      "zh-CN": "松本",
+      "zh-TW": "松本"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BF9B32B845C22FAAACD1E79BE4E4E5E4",
+    "source": "長野県",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野县",
+      "zh-TW": "長野縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8EA6538C46A0EAE4BE4AFC8228035A09",
+    "source": "諏訪",
+    "translations": {
+      "en": "Suwa",
+      "fr": "Suwa",
+      "es": "Suwa",
+      "zh-CN": "诹访",
+      "zh-TW": "諏訪"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0C573D994BF0518977C761A6C930FE0E",
+    "source": "富山県",
+    "translations": {
+      "en": "Toyama",
+      "fr": "Toyama",
+      "es": "Toyama",
+      "zh-CN": "富山县",
+      "zh-TW": "富山縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2CBD5AD84FCE5D93D2893597FD7C31C7",
+    "source": "富山",
+    "translations": {
+      "en": "Toyama",
+      "fr": "Toyama",
+      "es": "Toyama",
+      "zh-CN": "富山",
+      "zh-TW": "富山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "152706664F88915FFA55E8BD81724E50",
+    "source": "石川県",
+    "translations": {
+      "en": "Ishikawa",
+      "fr": "Ishikawa",
+      "es": "Ishikawa",
+      "zh-CN": "石川县",
+      "zh-TW": "石川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "23A7EC26446D4FBFD674068EC7D35F87",
+    "source": "石川",
+    "translations": {
+      "en": "Ishikawa",
+      "fr": "Ishikawa",
+      "es": "Ishikawa",
+      "zh-CN": "石川",
+      "zh-TW": "石川"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "61114F0841010E3E7C705E93F1B7866F",
+    "source": "石川県",
+    "translations": {
+      "en": "Ishikawa",
+      "fr": "Ishikawa",
+      "es": "Ishikawa",
+      "zh-CN": "石川县",
+      "zh-TW": "石川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "96C998BF4228A4119BAF56891628FFA7",
+    "source": "金沢",
+    "translations": {
+      "en": "Kanazawa",
+      "fr": "Kanazawa",
+      "es": "Kanazawa",
+      "zh-CN": "金泽",
+      "zh-TW": "金澤"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0972BD32435704B042BDF389B8035E56",
+    "source": "福井県",
+    "translations": {
+      "en": "Fukui",
+      "fr": "Fukui",
+      "es": "Fukui",
+      "zh-CN": "福井县",
+      "zh-TW": "福井縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "662EB44D4191DF0F0EB223B5CF1CCA7E",
+    "source": "福井",
+    "translations": {
+      "en": "Fukui",
+      "fr": "Fukui",
+      "es": "Fukui",
+      "zh-CN": "福井",
+      "zh-TW": "福井"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "64D682F646C007A2CE966D8705DC4084",
+    "source": "岐阜県",
+    "translations": {
+      "en": "Gifu",
+      "fr": "Gifu",
+      "es": "Gifu",
+      "zh-CN": "岐阜县",
+      "zh-TW": "岐阜縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F343A31E499216D66FB5A68DD1E96C10",
+    "source": "岐阜",
+    "translations": {
+      "en": "Gifu",
+      "fr": "Gifu",
+      "es": "Gifu",
+      "zh-CN": "岐阜",
+      "zh-TW": "岐阜"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "DB9A90BD4E802F85EC888FB6879230A0",
+    "source": "岐阜県",
+    "translations": {
+      "en": "Gifu",
+      "fr": "Gifu",
+      "es": "Gifu",
+      "zh-CN": "岐阜县",
+      "zh-TW": "岐阜縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3BB9D5D747721D17335B39B692D10F99",
+    "source": "飛騨",
+    "translations": {
+      "en": "Hida",
+      "fr": "Hida",
+      "es": "Hida",
+      "zh-CN": "飞驒",
+      "zh-TW": "飛驒"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "419C440043C907DE487583962A750193",
+    "source": "静岡県",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈县",
+      "zh-TW": "靜岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C804539741BB34C2C705E799D50CED86",
+    "source": "静岡",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈",
+      "zh-TW": "靜岡"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5C536D894F28058001C728A1A7274C68",
+    "source": "静岡県",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈县",
+      "zh-TW": "靜岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "533C6C3B40EE34B094E11AA6497D54B0",
+    "source": "浜松",
+    "translations": {
+      "en": "Hamamatsu",
+      "fr": "Hamamatsu",
+      "es": "Hamamatsu",
+      "zh-CN": "滨松",
+      "zh-TW": "濱松"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "312155654E6C340F41695A8E197CE493",
+    "source": "静岡県",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈县",
+      "zh-TW": "靜岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7181FC2F4F34A42EBCD454ACDD471097",
+    "source": "沼津",
+    "translations": {
+      "en": "Numazu",
+      "fr": "Numazu",
+      "es": "Numazu",
+      "zh-CN": "沼津",
+      "zh-TW": "沼津"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "DBE118E441471C9089B93FA680734EBC",
+    "source": "静岡県",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈县",
+      "zh-TW": "靜岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "04970643462253203C399696F21EAF7F",
+    "source": "伊豆",
+    "translations": {
+      "en": "Izu",
+      "fr": "Izu",
+      "es": "Izu",
+      "zh-CN": "伊豆",
+      "zh-TW": "伊豆"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "667BD15642EB6B4C2DDDFFA298EBE0DB",
+    "source": "静岡県",
+    "translations": {
+      "en": "Shizuoka",
+      "fr": "Shizuoka",
+      "es": "Shizuoka",
+      "zh-CN": "静冈县",
+      "zh-TW": "靜岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "EBF572604233481E7F016482894031A5",
+    "source": "富士山",
+    "translations": {
+      "en": "Fujisan",
+      "fr": "Mont Fuji",
+      "es": "Monte Fuji",
+      "zh-CN": "富士山",
+      "zh-TW": "富士山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3B8C40084E500E040232899EC3C653FD",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "959C3C894EC6B90583F1188A0489D0A1",
+    "source": "名古屋",
+    "translations": {
+      "en": "Nagoya",
+      "fr": "Nagoya",
+      "es": "Nagoya",
+      "zh-CN": "名古屋",
+      "zh-TW": "名古屋"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BBD6D728414900E0246A4997915F5C67",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "59AE5B894DAD646341E6F198365AFC33",
+    "source": "豊橋",
+    "translations": {
+      "en": "Toyohashi",
+      "fr": "Toyohashi",
+      "es": "Toyohashi",
+      "zh-CN": "丰桥",
+      "zh-TW": "豐橋"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9CDF79DF464C39542093F0A9DAA5530C",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C2FDDB8F44E73DFF97F228980D45981B",
+    "source": "三河",
+    "translations": {
+      "en": "Mikawa",
+      "fr": "Mikawa",
+      "es": "Mikawa",
+      "zh-CN": "三河",
+      "zh-TW": "三河"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2AA66A8F42BC4259A06160A0EBC1BF39",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8BEC856A43B1EBD54D9184AD4CD696CD",
+    "source": "岡崎",
+    "translations": {
+      "en": "Okazaki",
+      "fr": "Okazaki",
+      "es": "Okazaki",
+      "zh-CN": "冈崎",
+      "zh-TW": "岡崎"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "427576C641FC3AFAC029C792F4659F48",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4010546C407D4EC200433C904375A165",
+    "source": "豊田",
+    "translations": {
+      "en": "Toyota",
+      "fr": "Toyota",
+      "es": "Toyota",
+      "zh-CN": "丰田",
+      "zh-TW": "豐田"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5744C282446A9865CE530C9524B1FFCF",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "67667F3949EB860D7ED0F6B271FCE0C3",
+    "source": "尾張小牧",
+    "translations": {
+      "en": "Owari-Komaki",
+      "fr": "Owari-Komaki",
+      "es": "Owari-Komaki",
+      "zh-CN": "尾张小牧",
+      "zh-TW": "尾張小牧"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9C538386444F597227B3B8A1774C7C47",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F30F58554F9BBD99CF15268B7B882A75",
+    "source": "一宮",
+    "translations": {
+      "en": "Ichinomiya",
+      "fr": "Ichinomiya",
+      "es": "Ichinomiya",
+      "zh-CN": "一宫",
+      "zh-TW": "一宮"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "812790A54F9CEA1DCDF4D09D73C9838A",
+    "source": "愛知県",
+    "translations": {
+      "en": "Aichi",
+      "fr": "Aichi",
+      "es": "Aichi",
+      "zh-CN": "爱知县",
+      "zh-TW": "愛知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "465FABCC43E5F1C7A859398B1A0A5D56",
+    "source": "春日井",
+    "translations": {
+      "en": "Kasugai",
+      "fr": "Kasugai",
+      "es": "Kasugai",
+      "zh-CN": "春日井",
+      "zh-TW": "春日井"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8A3B6F41441B20B77BDD558E3CC4273C",
+    "source": "三重県",
+    "translations": {
+      "en": "Mie",
+      "fr": "Mie",
+      "es": "Mie",
+      "zh-CN": "三重县",
+      "zh-TW": "三重縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "008C57694B52DA0984DEF88B74DCCDC7",
+    "source": "三重",
+    "translations": {
+      "en": "Mie",
+      "fr": "Mie",
+      "es": "Mie",
+      "zh-CN": "三重",
+      "zh-TW": "三重"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "4818E2894886AD91F0EE3484B9E1219C",
+    "source": "三重県",
+    "translations": {
+      "en": "Mie",
+      "fr": "Mie",
+      "es": "Mie",
+      "zh-CN": "三重县",
+      "zh-TW": "三重縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "20E444F94DA718A62E4F77B912A05A49",
+    "source": "鈴鹿",
+    "translations": {
+      "en": "Suzuka",
+      "fr": "Suzuka",
+      "es": "Suzuka",
+      "zh-CN": "铃鹿",
+      "zh-TW": "鈴鹿"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C1D40A1746921A077C9D699CCBB09D71",
+    "source": "三重県",
+    "translations": {
+      "en": "Mie",
+      "fr": "Mie",
+      "es": "Mie",
+      "zh-CN": "三重县",
+      "zh-TW": "三重縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2F48674C42D98EF83DFF7FB33991E23B",
+    "source": "四日市",
+    "translations": {
+      "en": "Yokkaichi",
+      "fr": "Yokkaichi",
+      "es": "Yokkaichi",
+      "zh-CN": "四日市",
+      "zh-TW": "四日市"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BA3C5A0B49FC5C7FAAB855861AEB66C7",
+    "source": "三重県",
+    "translations": {
+      "en": "Mie",
+      "fr": "Mie",
+      "es": "Mie",
+      "zh-CN": "三重县",
+      "zh-TW": "三重縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F6903C2343AA08AE0E53929141177D0B",
+    "source": "伊勢志摩",
+    "translations": {
+      "en": "Ise-Shima",
+      "fr": "Ise-Shima",
+      "es": "Ise-Shima",
+      "zh-CN": "伊势志摩",
+      "zh-TW": "伊勢志摩"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F4FD5C404E2F59CA3ED05E87A98E0A91",
+    "source": "滋賀県",
+    "translations": {
+      "en": "Shiga",
+      "fr": "Shiga",
+      "es": "Shiga",
+      "zh-CN": "滋贺县",
+      "zh-TW": "滋賀縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7C326AF84BD31D3E32D55DA275ADC03D",
+    "source": "滋賀",
+    "translations": {
+      "en": "Shiga",
+      "fr": "Shiga",
+      "es": "Shiga",
+      "zh-CN": "滋贺",
+      "zh-TW": "滋賀"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D2338B7443480E1C4ED6A4B9C7D96721",
+    "source": "京都府",
+    "translations": {
+      "en": "Kyoto",
+      "fr": "Kyoto",
+      "es": "Kioto",
+      "zh-CN": "京都府",
+      "zh-TW": "京都府"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FE38C82B474DFF65FAA96FAA0F4E549A",
+    "source": "京都",
+    "translations": {
+      "en": "Kyoto",
+      "fr": "Kyoto",
+      "es": "Kioto",
+      "zh-CN": "京都",
+      "zh-TW": "京都"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7C2D73414E02DBA9AB45559A4406F260",
+    "source": "大阪府",
+    "translations": {
+      "en": "Osaka",
+      "fr": "Osaka",
+      "es": "Osaka",
+      "zh-CN": "大阪府",
+      "zh-TW": "大阪府"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7F754A9944DFAF18ED4B89B130B4FB26",
+    "source": "なにわ",
+    "translations": {
+      "en": "Naniwa",
+      "fr": "Naniwa",
+      "es": "Naniwa",
+      "zh-CN": "浪速",
+      "zh-TW": "浪速"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8AA1D5924E7ED1AD9AD846BFE8BEEF0A",
+    "source": "大阪府",
+    "translations": {
+      "en": "Osaka",
+      "fr": "Osaka",
+      "es": "Osaka",
+      "zh-CN": "大阪府",
+      "zh-TW": "大阪府"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "375C7F0D48D2B8B80379FFA97309ED19",
+    "source": "大阪",
+    "translations": {
+      "en": "Osaka",
+      "fr": "Osaka",
+      "es": "Osaka",
+      "zh-CN": "大阪",
+      "zh-TW": "大阪"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6045FABE4DBBBB6E9CF5948B1C792BE4",
+    "source": "大阪府",
+    "translations": {
+      "en": "Osaka",
+      "fr": "Osaka",
+      "es": "Osaka",
+      "zh-CN": "大阪府",
+      "zh-TW": "大阪府"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A812BB4848CB1716C132F2BDE69C9CA7",
+    "source": "和泉",
+    "translations": {
+      "en": "Izumi",
+      "fr": "Izumi",
+      "es": "Izumi",
+      "zh-CN": "和泉",
+      "zh-TW": "和泉"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "33724E1442A5EF19C2AA29A1E4D5CEAD",
+    "source": "大阪府",
+    "translations": {
+      "en": "Osaka",
+      "fr": "Osaka",
+      "es": "Osaka",
+      "zh-CN": "大阪府",
+      "zh-TW": "大阪府"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1C392C52457EBFA64BEB80A125E54BD0",
+    "source": "堺",
+    "translations": {
+      "en": "Sakai",
+      "fr": "Sakai",
+      "es": "Sakai",
+      "zh-CN": "堺",
+      "zh-TW": "堺"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9F675B97482D6DC611986296EC10BE94",
+    "source": "奈良県",
+    "translations": {
+      "en": "Nara",
+      "fr": "Nara",
+      "es": "Nara",
+      "zh-CN": "奈良县",
+      "zh-TW": "奈良縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "970E77B344961F4B5B8A99B33B8CE654",
+    "source": "奈良",
+    "translations": {
+      "en": "Nara",
+      "fr": "Nara",
+      "es": "Nara",
+      "zh-CN": "奈良",
+      "zh-TW": "奈良"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5761EBB34A2E1169867DAB932D974A71",
+    "source": "奈良県",
+    "translations": {
+      "en": "Nara",
+      "fr": "Nara",
+      "es": "Nara",
+      "zh-CN": "奈良县",
+      "zh-TW": "奈良縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7B1F470449E28F600EFE4EA0700B367C",
+    "source": "飛鳥",
+    "translations": {
+      "en": "Asuka",
+      "fr": "Asuka",
+      "es": "Asuka",
+      "zh-CN": "飞鸟",
+      "zh-TW": "飛鳥"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2FE3F1E045AFBF3CAD7766850B851B0D",
+    "source": "和歌山県",
+    "translations": {
+      "en": "Wakayama",
+      "fr": "Wakayama",
+      "es": "Wakayama",
+      "zh-CN": "和歌山县",
+      "zh-TW": "和歌山縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7D5C7CA749FB77AC210CABB80A301F5D",
+    "source": "和歌山",
+    "translations": {
+      "en": "Wakayama",
+      "fr": "Wakayama",
+      "es": "Wakayama",
+      "zh-CN": "和歌山",
+      "zh-TW": "和歌山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D48F6CFB4012A821B9865982BBAF46B0",
+    "source": "兵庫県",
+    "translations": {
+      "en": "Hyogo",
+      "fr": "Hyogo",
+      "es": "Hyogo",
+      "zh-CN": "兵庫县",
+      "zh-TW": "兵庫縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "715F8A4A4822D94F0D6818A007A8F91C",
+    "source": "神戸",
+    "translations": {
+      "en": "Kobe",
+      "fr": "Kobe",
+      "es": "Kobe",
+      "zh-CN": "神户",
+      "zh-TW": "神戶"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "71B9557940BA4F01656B4CBE1DE3036C",
+    "source": "兵庫県",
+    "translations": {
+      "en": "Hyogo",
+      "fr": "Hyogo",
+      "es": "Hyogo",
+      "zh-CN": "兵庫县",
+      "zh-TW": "兵庫縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "674CFE69447483B72852D18634AA3A96",
+    "source": "姫路",
+    "translations": {
+      "en": "Himeji",
+      "fr": "Himeji",
+      "es": "Himeji",
+      "zh-CN": "姬路",
+      "zh-TW": "姬路"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "0ABEB9804D80563FEDDB7CBC1CD9DAF9",
+    "source": "鳥取県",
+    "translations": {
+      "en": "Tottori",
+      "fr": "Tottori",
+      "es": "Tottori",
+      "zh-CN": "鸟取县",
+      "zh-TW": "鳥取縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2B04D5D34748892ECD7DBEAE18DA477C",
+    "source": "鳥取",
+    "translations": {
+      "en": "Tottori",
+      "fr": "Tottori",
+      "es": "Tottori",
+      "zh-CN": "鸟取",
+      "zh-TW": "鳥取"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FC63ED3A4E46DB2776571CB24663E404",
+    "source": "島根県",
+    "translations": {
+      "en": "Shimane",
+      "fr": "Shimane",
+      "es": "Shimane",
+      "zh-CN": "岛根县",
+      "zh-TW": "島根縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "E29DE51B4414EB0960A119A4793BD1D4",
+    "source": "島根",
+    "translations": {
+      "en": "Shimane",
+      "fr": "Shimane",
+      "es": "Shimane",
+      "zh-CN": "岛根",
+      "zh-TW": "島根"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6B637CBA4D4BCE5EFDBE379D27FA4FB2",
+    "source": "島根県",
+    "translations": {
+      "en": "Shimane",
+      "fr": "Shimane",
+      "es": "Shimane",
+      "zh-CN": "岛根县",
+      "zh-TW": "島根縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "928791BC439EEC101F3699AEC31F3EE1",
+    "source": "出雲",
+    "translations": {
+      "en": "Izumo",
+      "fr": "Izumo",
+      "es": "Izumo",
+      "zh-CN": "出云",
+      "zh-TW": "出雲"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6F3E78DD41786F137AE7EF9FD76A1B1E",
+    "source": "岡山県",
+    "translations": {
+      "en": "Okayama",
+      "fr": "Okayama",
+      "es": "Okayama",
+      "zh-CN": "冈山县",
+      "zh-TW": "岡山縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "AE2581F74A288ACABF563FBFBFA25735",
+    "source": "岡山",
+    "translations": {
+      "en": "Okayama",
+      "fr": "Okayama",
+      "es": "Okayama",
+      "zh-CN": "冈山",
+      "zh-TW": "岡山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "5A39650742CC6EFB69F882A9AD755695",
+    "source": "岡山県",
+    "translations": {
+      "en": "Okayama",
+      "fr": "Okayama",
+      "es": "Okayama",
+      "zh-CN": "冈山县",
+      "zh-TW": "岡山縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "DBE741AC43BD9D84DAF89DBC93906E22",
+    "source": "倉敷",
+    "translations": {
+      "en": "Kurashiki",
+      "fr": "Kurashiki",
+      "es": "Kurashiki",
+      "zh-CN": "仓敷",
+      "zh-TW": "倉敷"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8C76AE0D46F3192347B6A987E37F191A",
+    "source": "広島県",
+    "translations": {
+      "en": "Hiroshima",
+      "fr": "Hiroshima",
+      "es": "Hiroshima",
+      "zh-CN": "广岛县",
+      "zh-TW": "廣島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "549E605645B69664AD32B7AE036F505D",
+    "source": "広島",
+    "translations": {
+      "en": "Hiroshima",
+      "fr": "Hiroshima",
+      "es": "Hiroshima",
+      "zh-CN": "广岛",
+      "zh-TW": "廣島"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B1F12B9F436664EC527FE9B5A16A185F",
+    "source": "広島県",
+    "translations": {
+      "en": "Hiroshima",
+      "fr": "Hiroshima",
+      "es": "Hiroshima",
+      "zh-CN": "广岛县",
+      "zh-TW": "廣島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "BC20ADC3411D46F34A23E3AF6767216B",
+    "source": "福山",
+    "translations": {
+      "en": "Fukuyama",
+      "fr": "Fukuyama",
+      "es": "Fukuyama",
+      "zh-CN": "福山",
+      "zh-TW": "福山"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "554873E540280F75D3B26C8129042BBE",
+    "source": "山口県",
+    "translations": {
+      "en": "Yamaguchi",
+      "fr": "Yamaguchi",
+      "es": "Yamaguchi",
+      "zh-CN": "山口县",
+      "zh-TW": "山口縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C055315D451F72C1343361BFBD51A4F4",
+    "source": "山口県",
+    "translations": {
+      "en": "Yamaguchi",
+      "fr": "Yamaguchi",
+      "es": "Yamaguchi",
+      "zh-CN": "山口县",
+      "zh-TW": "山口縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1A16EA4A406A783621F9F99A44ADBAF8",
+    "source": "徳島県",
+    "translations": {
+      "en": "Tokushima",
+      "fr": "Tokushima",
+      "es": "Tokushima",
+      "zh-CN": "德岛县",
+      "zh-TW": "德島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D3C4B3144F1BF2FF12E33AA736E8A04E",
+    "source": "徳島",
+    "translations": {
+      "en": "Tokushima",
+      "fr": "Tokushima",
+      "es": "Tokushima",
+      "zh-CN": "德岛",
+      "zh-TW": "德島"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "418679A84AD4AD6E11DABC85D6B41A3F",
+    "source": "香川県",
+    "translations": {
+      "en": "Kagawa",
+      "fr": "Kagawa",
+      "es": "Kagawa",
+      "zh-CN": "香川县",
+      "zh-TW": "香川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7D02C0E448087F274C0C818DA7FF91F7",
+    "source": "香川",
+    "translations": {
+      "en": "Kagawa",
+      "fr": "Kagawa",
+      "es": "Kagawa",
+      "zh-CN": "香川",
+      "zh-TW": "香川"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F69106214C80BBA3E079339CEC69B464",
+    "source": "香川県",
+    "translations": {
+      "en": "Kagawa",
+      "fr": "Kagawa",
+      "es": "Kagawa",
+      "zh-CN": "香川县",
+      "zh-TW": "香川縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "AB0CC91D45D829769A150398AC1FAD98",
+    "source": "高松",
+    "translations": {
+      "en": "Takamatsu",
+      "fr": "Takamatsu",
+      "es": "Takamatsu",
+      "zh-CN": "高松",
+      "zh-TW": "高松"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D630F23F4EED673219435495967885D0",
+    "source": "愛媛県",
+    "translations": {
+      "en": "Ehime",
+      "fr": "Ehime",
+      "es": "Ehime",
+      "zh-CN": "爱媛县",
+      "zh-TW": "愛媛縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "65C89C194771F40ADDC5D28B78504661",
+    "source": "愛媛",
+    "translations": {
+      "en": "Ehime",
+      "fr": "Ehime",
+      "es": "Ehime",
+      "zh-CN": "爱媛",
+      "zh-TW": "愛媛"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "170CCB3448CC0DEEC37860A117D11298",
+    "source": "高知県",
+    "translations": {
+      "en": "Kochi",
+      "fr": "Kochi",
+      "es": "Kochi",
+      "zh-CN": "高知县",
+      "zh-TW": "高知縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B8FFDE7246665BBFBDCB14BF34BDEFF7",
+    "source": "高知",
+    "translations": {
+      "en": "Kochi",
+      "fr": "Kochi",
+      "es": "Kochi",
+      "zh-CN": "高知",
+      "zh-TW": "高知"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "6E7377C5465EC70178B68BBE94ECA6C9",
+    "source": "福岡県",
+    "translations": {
+      "en": "Fukuoka",
+      "fr": "Fukuoka",
+      "es": "Fukuoka",
+      "zh-CN": "福冈县",
+      "zh-TW": "福岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "064B4F4A4950DFE2760886A50A574454",
+    "source": "福岡",
+    "translations": {
+      "en": "Fukuoka",
+      "fr": "Fukuoka",
+      "es": "Fukuoka",
+      "zh-CN": "福冈",
+      "zh-TW": "福岡"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "2936595C46DE945F45161EBADE15C370",
+    "source": "福岡県",
+    "translations": {
+      "en": "Fukuoka",
+      "fr": "Fukuoka",
+      "es": "Fukuoka",
+      "zh-CN": "福冈县",
+      "zh-TW": "福岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "9E629E54411EA5D17356779501C2A366",
+    "source": "北九州",
+    "translations": {
+      "en": "Kitakyushu",
+      "fr": "Kitakyushu",
+      "es": "Kitakyushu",
+      "zh-CN": "北九州",
+      "zh-TW": "北九州"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D83A55084C890727D4CE1BA1EA8F2026",
+    "source": "福岡県",
+    "translations": {
+      "en": "Fukuoka",
+      "fr": "Fukuoka",
+      "es": "Fukuoka",
+      "zh-CN": "福冈县",
+      "zh-TW": "福岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FE47BE3B4ACC5A1273DF5593C2161F62",
+    "source": "久留米",
+    "translations": {
+      "en": "Kurume",
+      "fr": "Kurume",
+      "es": "Kurume",
+      "zh-CN": "久留米",
+      "zh-TW": "久留米"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "D93F7E384CA2404F3BF78A91F366F5B4",
+    "source": "福岡県",
+    "translations": {
+      "en": "Fukuoka",
+      "fr": "Fukuoka",
+      "es": "Fukuoka",
+      "zh-CN": "福冈县",
+      "zh-TW": "福岡縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "A9205FBB4E1717183445F48CD7822159",
+    "source": "筑豊",
+    "translations": {
+      "en": "Chikuho",
+      "fr": "Chikuho",
+      "es": "Chikuho",
+      "zh-CN": "筑丰",
+      "zh-TW": "筑豐"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "845E6503490A42C3ECC210B671023BBE",
+    "source": "佐賀県",
+    "translations": {
+      "en": "Saga",
+      "fr": "Saga",
+      "es": "Saga",
+      "zh-CN": "佐贺县",
+      "zh-TW": "佐賀縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "18BEE6E64A046F69D1A5628785758F3A",
+    "source": "佐賀",
+    "translations": {
+      "en": "Saga",
+      "fr": "Saga",
+      "es": "Saga",
+      "zh-CN": "佐贺",
+      "zh-TW": "佐賀"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C09F0D4E4F93E80706050D9AFD1C5D8C",
+    "source": "長崎県",
+    "translations": {
+      "en": "Nagasaki",
+      "fr": "Nagasaki",
+      "es": "Nagasaki",
+      "zh-CN": "长崎县",
+      "zh-TW": "長崎縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "00A104E2475622770232AD88D7D552F1",
+    "source": "長崎",
+    "translations": {
+      "en": "Nagasaki",
+      "fr": "Nagasaki",
+      "es": "Nagasaki",
+      "zh-CN": "长崎",
+      "zh-TW": "長崎"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "376B82D94D9C1D9C4E570A939FCC2354",
+    "source": "長崎県",
+    "translations": {
+      "en": "Nagasaki",
+      "fr": "Nagasaki",
+      "es": "Nagasaki",
+      "zh-CN": "长崎县",
+      "zh-TW": "長崎縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B0F16D4E42103950610D2699816DE532",
+    "source": "佐世保",
+    "translations": {
+      "en": "Sasebo",
+      "fr": "Sasebo",
+      "es": "Sasebo",
+      "zh-CN": "佐世保",
+      "zh-TW": "佐世保"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "33B38DB94D63A0BE544B2ABD38CDBA34",
+    "source": "熊本県",
+    "translations": {
+      "en": "Kumamoto",
+      "fr": "Kumamoto",
+      "es": "Kumamoto",
+      "zh-CN": "熊本县",
+      "zh-TW": "熊本縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "73361D624EE4BB16F7B69C88D3338B6D",
+    "source": "熊本",
+    "translations": {
+      "en": "Kumamoto",
+      "fr": "Kumamoto",
+      "es": "Kumamoto",
+      "zh-CN": "熊本",
+      "zh-TW": "熊本"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "3D5106CB4239A136388385A02B2A7A85",
+    "source": "大分県",
+    "translations": {
+      "en": "Oita",
+      "fr": "Oita",
+      "es": "Oita",
+      "zh-CN": "大分县",
+      "zh-TW": "大分縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "1F1F4D4A49B01E27B6C5A38F7DFD5FCC",
+    "source": "大分",
+    "translations": {
+      "en": "Oita",
+      "fr": "Oita",
+      "es": "Oita",
+      "zh-CN": "大分",
+      "zh-TW": "大分"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "F9A6499A42EAAC57F8B61282624F85E8",
+    "source": "宮崎県",
+    "translations": {
+      "en": "Miyazaki",
+      "fr": "Miyazaki",
+      "es": "Miyazaki",
+      "zh-CN": "宫崎县",
+      "zh-TW": "宮崎縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "FF8393824C3D367FCE9EA38607E485B4",
+    "source": "宮崎",
+    "translations": {
+      "en": "Miyazaki",
+      "fr": "Miyazaki",
+      "es": "Miyazaki",
+      "zh-CN": "宫崎",
+      "zh-TW": "宮崎"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "03CE59F04E08E2FF6950F6ABB8529143",
+    "source": "鹿児島県",
+    "translations": {
+      "en": "Kagoshima",
+      "fr": "Kagoshima",
+      "es": "Kagoshima",
+      "zh-CN": "鹿儿岛县",
+      "zh-TW": "鹿兒島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C6C742324237C93C333B5F93CA633854",
+    "source": "鹿児島",
+    "translations": {
+      "en": "Kagoshima",
+      "fr": "Kagoshima",
+      "es": "Kagoshima",
+      "zh-CN": "鹿儿岛",
+      "zh-TW": "鹿兒島"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "B71678E44BAA7C0E50EC1FAE92143A9B",
+    "source": "鹿児島県",
+    "translations": {
+      "en": "Kagoshima",
+      "fr": "Kagoshima",
+      "es": "Kagoshima",
+      "zh-CN": "鹿儿岛县",
+      "zh-TW": "鹿兒島縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "8EE8696948CAE9124637DA8DF1BD12DF",
+    "source": "奄美",
+    "translations": {
+      "en": "Amami",
+      "fr": "Amami",
+      "es": "Amami",
+      "zh-CN": "奄美",
+      "zh-TW": "奄美"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "7A766EF64A42DC0BD97C9BB05C649346",
+    "source": "沖縄県",
+    "translations": {
+      "en": "Okinawa",
+      "fr": "Okinawa",
+      "es": "Okinawa",
+      "zh-CN": "冲绳县",
+      "zh-TW": "沖繩縣"
+    }
+  },
+  {
+    "namespace": "DT_Prefectures_to_Place",
+    "key": "C9C466394540356903453CA2866CAB04",
+    "source": "沖縄",
+    "translations": {
+      "en": "Okinawa",
+      "fr": "Okinawa",
+      "es": "Okinawa",
+      "zh-CN": "冲绳",
+      "zh-TW": "沖繩"
+    }
+  },
+  {
+    "namespace": "DT_NumberPlate_AreaName",
+    "key": "116_Place_Name",
+    "source": "山口",
+    "translations": {
+      "en": "Yamaguchi",
+      "fr": "Yamaguchi",
+      "es": "Yamaguchi",
+      "zh-CN": "山口",
+      "zh-TW": "山口"
+    }
+  },
+  {
+    "namespace": "DT_NumberPlate_AreaName",
+    "key": "117_Place_Name",
+    "source": "下関",
+    "translations": {
+      "en": "Shimonoseki",
+      "fr": "Shimonoseki",
+      "es": "Shimonoseki",
+      "zh-CN": "下关",
+      "zh-TW": "下關"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "1891397C478DA8D11EF765BFACE0C72B",
+    "source": "北海道",
+    "translations": {
+      "en": "Hokkaido",
+      "fr": "Hokkaido",
+      "es": "Hokkaido",
+      "zh-CN": "北海道",
+      "zh-TW": "北海道"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "0A0DF68A4BD0144A59445AA045C47499",
+    "source": "十勝",
+    "translations": {
+      "en": "Tokachi",
+      "fr": "Tokachi",
+      "es": "Tokachi",
+      "zh-CN": "十胜",
+      "zh-TW": "十勝"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "1E65BDE846B4E13B7DC51CBFC3469ADB",
+    "source": "栃木県",
+    "translations": {
+      "en": "Tochigi",
+      "fr": "Tochigi",
+      "es": "Tochigi",
+      "zh-CN": "栃木县",
+      "zh-TW": "栃木縣"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "EF2BB8E04AE6C9110F5FC6B79457CC67",
+    "source": "日光",
+    "translations": {
+      "en": "Nikko",
+      "fr": "Nikko",
+      "es": "Nikko",
+      "zh-CN": "日光",
+      "zh-TW": "日光"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "5437F94345AEC3D81E75B081273A0D21",
+    "source": "東京都",
+    "translations": {
+      "en": "Tokyo",
+      "fr": "Tokyo",
+      "es": "Tokio",
+      "zh-CN": "东京都",
+      "zh-TW": "東京都"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "D818F4A84D570724C1A96B948C531656",
+    "source": "江戸川",
+    "translations": {
+      "en": "Edogawa",
+      "fr": "Edogawa",
+      "es": "Edogawa",
+      "zh-CN": "江户川",
+      "zh-TW": "江戶川"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "ABAF08AE411B83CDFECD90916AC58968",
+    "source": "長野県",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野县",
+      "zh-TW": "長野縣"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "CB50A53647424B8BA6260BBC2993EF0C",
+    "source": "安曇野",
+    "translations": {
+      "en": "Azumino",
+      "fr": "Azumino",
+      "es": "Azumino",
+      "zh-CN": "安昙野",
+      "zh-TW": "安曇野"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "A7D560384FBFA97D370253A963415FE3",
+    "source": "長野県",
+    "translations": {
+      "en": "Nagano",
+      "fr": "Nagano",
+      "es": "Nagano",
+      "zh-CN": "长野县",
+      "zh-TW": "長野縣"
+    }
+  },
+  {
+    "namespace": "",
+    "key": "A27A38A24D9DA5A050112D8CBC1712F0",
+    "source": "南信州",
+    "translations": {
+      "en": "Minami-Shinshu",
+      "fr": "Minami-Shinshu",
+      "es": "Minami-Shinshu",
+      "zh-CN": "南信州",
+      "zh-TW": "南信州"
+    }
+  }
+]

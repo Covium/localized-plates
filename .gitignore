@@ -1,0 +1,9 @@
+/tools/
+/dist/
+/backups/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+/update-report.json
+/validation.json

@@ -1,0 +1,124 @@
+name: Build release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_mode:
+        description: Build artifacts only, or publish the version recorded in release.json
+        type: choice
+        default: artifacts-only
+        required: true
+        options:
+          - artifacts-only
+          - draft
+          - prerelease
+          - release
+
+permissions:
+  contents: read
+
+concurrency:
+  group: localized-plates-release
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: windows-2025
+    timeout-minutes: 20
+    outputs:
+      version: ${{ steps.metadata.outputs.version }}
+      changelog: ${{ steps.metadata.outputs.changelog }}
+      file_id: ${{ steps.metadata.outputs.file_id }}
+      mod_id: ${{ steps.metadata.outputs.mod_id }}
+      display_name: ${{ steps.metadata.outputs.display_name }}
+      category: ${{ steps.metadata.outputs.category }}
+      description: ${{ steps.metadata.outputs.description }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Check Nexus credentials for public releases
+        if: inputs.release_mode == 'release'
+        env:
+          NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
+        run: |
+          if (!$env:NEXUS_API_KEY) { throw 'Set the NEXUS_API_KEY repository Actions secret before publishing a release.' }
+      - name: Validate release inputs and generate changelog
+        id: metadata
+        run: python release_metadata.py
+      - name: Test update and release helpers
+        run: python -m unittest discover -s tests -v
+      - name: Fetch checksum-pinned tools
+        run: python fetch_tools.py
+      - name: Build and validate both variants
+        run: python build_release.py
+      - uses: actions/upload-artifact@v7
+        with:
+          name: Localized-Plates-${{ steps.metadata.outputs.version }}
+          path: |
+            dist/Localized Plates.zip
+            dist/release-notes.md
+            dist/validation.json
+          if-no-files-found: error
+
+  github-release:
+    needs: build
+    if: inputs.release_mode != 'artifacts-only'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: Localized-Plates-${{ needs.build.outputs.version }}
+          path: release-assets
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_VERSION: ${{ needs.build.outputs.version }}
+          RELEASE_MODE: ${{ inputs.release_mode }}
+        shell: bash
+        run: |
+          options=()
+          if [[ "$RELEASE_MODE" == "draft" ]]; then options+=(--draft); fi
+          if [[ "$RELEASE_MODE" == "prerelease" ]]; then options+=(--prerelease); fi
+          gh release create "v$RELEASE_VERSION" "release-assets/Localized Plates.zip" \
+            --target "$GITHUB_SHA" --title "Localized Plates v$RELEASE_VERSION" \
+            --notes-file release-assets/release-notes.md "${options[@]}"
+
+  nexus:
+    needs: [build, github-release]
+    if: inputs.release_mode == 'release'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - name: Download the published GitHub asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_VERSION: ${{ needs.build.outputs.version }}
+        run: gh release download "v$RELEASE_VERSION" --pattern 'Localized Plates.zip' --dir release-assets
+      # Same official revision used by Colorful Rivals; includes changelog support.
+      - name: Update Nexus file and archive its previous version
+        id: upload
+        uses: Nexus-Mods/upload-action@98532f7670c27cbecc78fae03fa3e278147827e2
+        with:
+          api_key: ${{ secrets.NEXUS_API_KEY }}
+          file_id: ${{ needs.build.outputs.file_id }}
+          filename: release-assets/Localized Plates.zip
+          version: ${{ needs.build.outputs.version }}
+          display_name: ${{ needs.build.outputs.display_name }}
+          description: ${{ needs.build.outputs.description }}
+          category: ${{ needs.build.outputs.category }}
+          archive_existing_version: 'true'
+          update_mod_version: 'true'
+          mod_id: ${{ needs.build.outputs.mod_id }}
+          changelog: ${{ needs.build.outputs.changelog }}
+      - name: Record published version
+        env:
+          VERSION_ID: ${{ steps.upload.outputs.version_id }}
+          RELEASE_VERSION: ${{ needs.build.outputs.version }}
+        run: printf 'Localized Plates %s — Nexus version %s\n' "$RELEASE_VERSION" "$VERSION_ID" >> "$GITHUB_STEP_SUMMARY"
