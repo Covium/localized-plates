@@ -106,7 +106,7 @@ jobs:
             --pattern 'Localized.Plates.zip' \
             --output 'release-assets/Localized Plates.zip'
       # Same official revision used by Colorful Rivals; includes changelog support.
-      - name: Update Nexus file and archive its previous version
+      - name: Publish new Nexus file version
         id: upload
         uses: Nexus-Mods/upload-action@98532f7670c27cbecc78fae03fa3e278147827e2
         with:
@@ -117,7 +117,7 @@ jobs:
           display_name: ${{ needs.build.outputs.display_name }}
           description: ${{ needs.build.outputs.description }}
           category: ${{ needs.build.outputs.category }}
-          archive_existing_version: 'true'
+          archive_existing_version: 'false'
           update_mod_version: 'true'
           mod_id: ${{ needs.build.outputs.mod_id }}
           changelog: ${{ needs.build.outputs.changelog }}
