@@ -100,7 +100,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
           RELEASE_VERSION: ${{ needs.build.outputs.version }}
-        run: gh release download "v$RELEASE_VERSION" --pattern 'Localized Plates.zip' --dir release-assets
+        run: |
+          mkdir -p release-assets
+          gh release download "v$RELEASE_VERSION" \
+            --pattern 'Localized.Plates.zip' \
+            --output 'release-assets/Localized Plates.zip'
       # Same official revision used by Colorful Rivals; includes changelog support.
       - name: Update Nexus file and archive its previous version
         id: upload
